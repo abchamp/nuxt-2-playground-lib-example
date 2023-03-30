@@ -1,9 +1,9 @@
 # nuxt-2-playground-lib-example
 
 
-# GlideJs
+# Glide js - example on file pages/glidejs.vue
 ```
-
+yarn install @glidejs/glide
 ```
 
 # LightboxJs
