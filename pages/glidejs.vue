@@ -1,5 +1,12 @@
 <template>
   <h5>Hello World</h5>
+  <!-- image example -->
+
+  <!-- card example -->
 </template>
 
-<script></script>
+<script>
+export default {
+  name: 'GlidejsPage',
+}
+</script>
