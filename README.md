@@ -1,5 +1,7 @@
 # nuxt-2-playground-lib-example
 
+Demo: https://gleeful-banoffee-dbbee7.netlify.app/
+
 # Glide js - example on file pages/glidejs.vue
 
 ```
