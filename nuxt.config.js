@@ -44,6 +44,6 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-    transpile: ['@splidejs/vue-splide'],
+    // transpile: ['@splidejs/vue-splide'],
   },
 }
