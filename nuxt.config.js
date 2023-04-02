@@ -16,7 +16,10 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: ['@splidejs/splide/dist/css/splide.min.css'],
+  css: [
+    '@splidejs/splide/dist/css/splide.min.css',
+    'glightbox/dist/css/glightbox.min.css',
+  ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [{ src: '~/plugins/splide.js', mode: 'client' }],

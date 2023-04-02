@@ -1,4 +1,4 @@
-# nuxt-2-playground-lib-example
+# Vue 2 (Nuxt 2) Lib Setup Guide
 
 Demo: https://gleeful-banoffee-dbbee7.netlify.app/
 
@@ -8,10 +8,12 @@ Demo: https://gleeful-banoffee-dbbee7.netlify.app/
 yarn install @glidejs/glide
 ```
 
-# LightboxJs
+# glightbox
+
+- https://www.npmjs.com/package/glightbox
 
 ```
-
+yarn add glightbox
 ```
 
 # SplideJs
@@ -34,4 +36,12 @@ https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking
 
 ```
 
-"swiper": "7.4.1",
+# Swiper
+
+```
+yarn add swiper@7.4.1
+```
+
+Ref
+
+- https://www.lightgalleryjs.com/
