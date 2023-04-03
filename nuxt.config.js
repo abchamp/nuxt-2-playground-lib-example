@@ -17,6 +17,8 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '@glidejs/glide/dist/css/glide.core.min.css',
+    '@glidejs/glide/dist/css/glide.theme.min.css',
     '@splidejs/splide/dist/css/splide.min.css',
     'glightbox/dist/css/glightbox.min.css',
   ],
